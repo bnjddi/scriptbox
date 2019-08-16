@@ -10,7 +10,7 @@ tags:
 twitter_text: Beaver Builder is a front end, drag and drop page builder plugin.
 introduction: Beaver Builder is a front end, drag and drop page builder plugin. You can use it to quickly and easily build pages with our theme, or any of your other favorite themes. Choose the only page builder you’ll actually love using.
 ---
-Beaver Builder is a front end, drag and drop page builder plugin. You can use it to quickly and easily build pages with our theme, or any of your other favorite themes. Choose the only page builder you’ll actually love using.
+>Beaver Builder is a front end, drag and drop page builder plugin. You can use it to quickly and easily build pages with our theme, or any of your other favorite themes. Choose the only page builder you’ll actually love using.
 
 Demo <br>
 https://www.wpbeaverbuilder.com/
