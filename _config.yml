@@ -26,7 +26,7 @@ highlighter: rouge
 permalink: /:title/
 paginate: 40
 paginate_path: "/page/:num/"
-svg_color: "#ff0a16"
+svg_color: "#f34573"
 
 # Plugins
 plugins:
