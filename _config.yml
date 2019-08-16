@@ -1,14 +1,14 @@
 # Site Settings
 title: scriptbox | No choice
-email: si1981mo@gmail.com
-description: Some text about your blog.
+email: bnjddiwebmaster@gmail.com
+description: source code for free.
 baseurl: "/scriptbox" # the subpath of your site, e.g. /blog
 url: "https://bnjddi.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
 username: scriptbox
-user_description: Some text about you.
+user_description: enjoy with us </br>Our motto: free resources for everyone.
 disqus_username: disqus_username
 
 # Social Media
