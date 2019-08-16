@@ -2,7 +2,7 @@
 layout: post
 title: "Skin Beauty v1.2.3 – Beauty | Spa | Salon "
 description:  a clean responsive WordPress theme especial for Beauty.
-image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
+image: 'https://res.cloudinary.com/dteyxxq5h/image/upload/v1565976177/skin-beauty-v1-2-3-beauty-spa-salon-wordpress-theme_icxzmj.png'
 category: 'wordpress-themes'
 tags:
 - wordpress
