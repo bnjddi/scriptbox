@@ -2,12 +2,12 @@
 title: scriptbox | No choice
 email: si1981mo@gmail.com
 description: Some text about your blog.
-baseurl: "/jekflix" # the subpath of your site, e.g. /blog
+baseurl: "/scriptbox" # the subpath of your site, e.g. /blog
 url: "https://bnjddi.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
+username: scriptbox
 user_description: Some text about you.
 disqus_username: disqus_username
 
