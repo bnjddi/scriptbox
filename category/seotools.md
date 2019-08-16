@@ -1,4 +1,4 @@
 ---
 layout: category
-category: 'seo tools'
+category: 'seo_tools'
 ---
