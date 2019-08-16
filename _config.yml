@@ -38,8 +38,8 @@ plugins:
 links:
   - title: Home
     url: /
-  - title: About
-    url: /about/
+  - title: SEO TOOLS
+    url: /category/seo/
   - title: Contact
     url: /contact/
 
