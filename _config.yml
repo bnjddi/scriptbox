@@ -2,8 +2,8 @@
 title: scriptbox | No choice
 email: bnjddiwebmaster@gmail.com
 description: source code for free.
-baseurl: "/scriptbox" # the subpath of your site, e.g. /blog
-url: "https://bnjddi.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://ecolesmara.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
